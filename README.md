@@ -1,9 +1,5 @@
 # Dashboard de Vendas
 
-![Screenshot do Dashboard](./images/dataframe.png)
-![Screenshot do Dashboard](./images/graficos.png)
-![Screenshot do Dashboard](./images/metricas.png)
-
 Este projeto é um **Dashboard de Vendas** desenvolvido com **Streamlit** e **Python**. Utiliza dados fictícios de vendas para gerar visualizações interativas e métricas. O dashboard permite que os usuários filtrem as vendas por região e explorem informações como desempenho de vendas, itens mais vendidos e os vendedores mais produtivos.
 
 ## Funcionalidades:
@@ -27,3 +23,7 @@ Este projeto é um **Dashboard de Vendas** desenvolvido com **Streamlit** e **Py
     ```
 
 O dashboard será aberto automaticamente em seu navegador para visualização e interação com os dados.
+## Imagens do Projeto em Execução
+![Screenshot do Dashboard](./images/dataframe.png)
+![Screenshot do Dashboard](./images/graficos.png)
+![Screenshot do Dashboard](./images/metricas.png)
