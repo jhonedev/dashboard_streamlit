@@ -19,7 +19,7 @@ Este projeto é um **Dashboard de Vendas** desenvolvido com **Streamlit** e **Py
 ## Como testar:
 1. Navegue até a pasta do projeto:
     ```bash
-    cd c:/Users/jonat/OneDrive/Área de Trabalho/Cursos/Curso_OBC/Dashboard
+    cd c:/caminho_do_diretorio/Cursos/Curso_OBC/Dashboard
     ```
 2. Execute o comando para iniciar o Streamlit:
     ```bash
